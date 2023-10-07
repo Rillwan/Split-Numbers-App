@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Split-Numbers-App/static/css/main.3a538205.css",
+    "main.js": "/Split-Numbers-App/static/js/main.9bc58f1c.js",
+    "index.html": "/Split-Numbers-App/index.html",
+    "main.3a538205.css.map": "/Split-Numbers-App/static/css/main.3a538205.css.map",
+    "main.9bc58f1c.js.map": "/Split-Numbers-App/static/js/main.9bc58f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a538205.css",
+    "static/js/main.9bc58f1c.js"
+  ]
+}
